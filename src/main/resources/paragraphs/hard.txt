@@ -1,0 +1,9 @@
+public static void main(String[] args) { double wpm = (correct / 5.0) / (time / 60.0); }
+---
+Check your syntax: array[i] = (index * 2) + Math.sqrt(total_errors / 100.0); // accuracy check
+---
+Is this true? (WPM >= 80 && accuracy == 100.0%) -> "You are a professional developer!"
+---
+The system output code: #102-ERROR [status_code=500, message='Internal Connection Timeout'].
+---
+Regex match: /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/ matches a standard email!
